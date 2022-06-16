@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sflewis2970
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Shawn F. Lewis (@sflewis2970)
+- 👀 I’m interested in micrososervices and golang development
+- 🌱 I’m currently learning how to develop microservices using Golang
+- 💞️ I’m looking to collaborate on building microservices
+- 📫 How to reach me -> shawnf.lewsi@gmail.com
 
 <!---
 sflewis2970/sflewis2970 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
